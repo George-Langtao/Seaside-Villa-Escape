@@ -6,9 +6,7 @@ Privacy Policy
 
 Your privacy is important to us. This Privacy Policy explains how Seaside Villa Escape (“we,” “our,” or “us”) collects, uses, and protects your information when you use our application.
 
-1. Information We Collect
-
-We do not collect, store, or share any personally identifiable information (PII).
+1. Information We Collect: We do not collect, store, or share any personally identifiable information (PII).
 
 We do not:
    Require users to sign in or regist;

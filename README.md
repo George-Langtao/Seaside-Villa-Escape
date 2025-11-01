@@ -2,6 +2,7 @@ Seaside-Villa-Escape
 
 
 Privacy Policy
+--------------
 
 Your privacy is important to us. This Privacy Policy explains how Seaside Villa Escape (“we,” “our,” or “us”) collects, uses, and protects your information when you use our application.
 
@@ -25,6 +26,7 @@ We might update this Privacy Policy occasionally. If we make changes, we’ll sh
 
 
 Technical Support
+-----------------
 
 Comments, suggestions and the possible bug reporting are welcomed, and the message can be sent to liu_george@126.com or (86)
 18924696932.

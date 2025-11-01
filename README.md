@@ -9,10 +9,10 @@ Your privacy is important to us. This Privacy Policy explains how Seaside Villa 
 We do not collect, store, or share any personally identifiable information (PII).
 
 We do not:
-   Require users to sign in or regis
-   Collect your name, email address, or phone number
-   Track your location
-   Share your data with third parties
+   Require users to sign in or regist;
+   Collect your name, email address, or phone number;
+   Track your location;
+   Share your data with third parties;
    
 3. How We Use Your Information
 We don’t collect any personal information, so your data isn’t used for analyses, ads, or shared with other services. 
